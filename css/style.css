@@ -88,8 +88,8 @@ body {
 
 header {
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url("../images/bgimg.jpg");
+  background-image: linear-gradient(rgb(1 2 7 / 83%), rgb(0 0 0 / 81%)),
+    url("../images/maxresdefault\ \(1\).jpg");
   background-position: center;
   background-size: cover;
   position: relative;
@@ -422,7 +422,7 @@ nav .fa {
 /* ABOUT SECTION */
 #about {
   /* background: #1c1c1c; */
-  background-color: rgb(89, 25, 89);
+  background-color: rgb(51 36 13);
 
   width: 100%;
   padding: 5px 0px;
@@ -434,6 +434,7 @@ nav .fa {
   color: white;
   font-size: 40px;
   margin: 20px 20px;
+  margin-bottom: 76px;
   font-weight: 700;
   text-align: center;
   font-family: "Montserrat";
@@ -451,15 +452,14 @@ nav .fa {
 }
 .about .max-width{
   margin: auto 0 auto 85px;
-  margin-bottom: 30px;
+  margin-bottom: 139px;
   color: white;
  
 }
 .about .photo{
  float: right;
- border: 5px solid #00c3f9;
- border-radius: 10px;
  margin-right: 10%;
+ margin-top: -20px;
 }
 .about .about-content .text-1{
 font-size: 27px;

@@ -611,6 +611,7 @@ footer a:focus {
 
 .footercontent{
   margin-right: auto;
+  padding: 0px;
   margin-left: auto;
   display: flex;
   flex-direction: column;
