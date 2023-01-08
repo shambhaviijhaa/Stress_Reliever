@@ -1,5 +1,6 @@
 
-## Website Link- https://shambhaviijhaa.github.io/Stress_Reliever/
+## Website Link- https://stressreliever.netlify.app/
+or https://shambhaviijhaa.github.io/Stress_Reliever/
 
 
 ##  Our Tagline 
