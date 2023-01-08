@@ -35,10 +35,9 @@ There is growing recognition of the importance of mental health in India. Meanwh
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/88590792/211190281-b117e8d2-c89c-40ca-b2a2-78ebfa06268a.png)
 
+## Mobile View
 
-
-
-
+![mob view](https://user-images.githubusercontent.com/88590792/211190631-73e5b5b4-167b-49ff-ac0c-43752e589314.jpg)
 
 ## Tech Stack 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
