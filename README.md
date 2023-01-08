@@ -6,6 +6,10 @@ or https://shambhaviijhaa.github.io/Stress_Reliever/
 ##  Our Tagline 
 One step solution to live a stress-free life.💙
 
+## Project Demo
+
+https://youtu.be/rskb34_cYZ0
+
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/88590792/211190259-eaf9bda2-67c8-49a6-8ebe-9b5fa130c2e9.png)
 
@@ -35,9 +39,6 @@ There is growing recognition of the importance of mental health in India. Meanwh
 
 ![Screenshot (55)](https://user-images.githubusercontent.com/88590792/211190281-b117e8d2-c89c-40ca-b2a2-78ebfa06268a.png)
 
-## Project Demo
-
-https://youtu.be/rskb34_cYZ0
 
 ## Tech Stack 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
